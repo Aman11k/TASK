@@ -1,1 +1,1 @@
-"this is my b file"
+again modified in folder 3 file b
